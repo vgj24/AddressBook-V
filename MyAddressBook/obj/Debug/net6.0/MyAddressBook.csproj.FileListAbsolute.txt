@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\MyAddressBook\obj\Debug\net6.0\MyAddressBook.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\MyAddressBook\obj\Debug\net6.0\MyAddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\MyAddressBook\obj\Debug\net6.0\MyAddressBook.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\MyAddressBook\obj\Debug\net6.0\MyAddressBook.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\MyAddressBook\obj\Debug\net6.0\MyAddressBook.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\MyAddressBook\bin\Debug\net6.0\MyAddressBook.exe
+C:\Users\vgj24\source\repos\MyAddressBook\bin\Debug\net6.0\MyAddressBook.deps.json
+C:\Users\vgj24\source\repos\MyAddressBook\bin\Debug\net6.0\MyAddressBook.runtimeconfig.json
+C:\Users\vgj24\source\repos\MyAddressBook\bin\Debug\net6.0\MyAddressBook.dll
+C:\Users\vgj24\source\repos\MyAddressBook\bin\Debug\net6.0\ref\MyAddressBook.dll
+C:\Users\vgj24\source\repos\MyAddressBook\bin\Debug\net6.0\MyAddressBook.pdb
+C:\Users\vgj24\source\repos\MyAddressBook\obj\Debug\net6.0\MyAddressBook.dll
+C:\Users\vgj24\source\repos\MyAddressBook\obj\Debug\net6.0\ref\MyAddressBook.dll
+C:\Users\vgj24\source\repos\MyAddressBook\obj\Debug\net6.0\MyAddressBook.pdb
+C:\Users\vgj24\source\repos\MyAddressBook\obj\Debug\net6.0\MyAddressBook.genruntimeconfig.cache
